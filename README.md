@@ -5,15 +5,15 @@
     <img src="https://img.shields.io/npm/v/libarchive.js.svg"
          alt="npm version">
   </a>
-  <a href="https://travis-ci.com/nika-begiashvili/libarchivejs">
-    <img src="https://travis-ci.com/nika-begiashvili/libarchivejs.svg?branch=master"
+  <a href="https://travis-ci.com/howieY/libarchivejs">
+    <img src="https://travis-ci.com/howieY/libarchivejs.svg?branch=master"
          alt="build status">
   </a>
-  <a href="https://david-dm.org/nika-begiashvili/libarchivejs">
-    <img src="https://david-dm.org/nika-begiashvili/libarchivejs/status.svg"
+  <a href="https://david-dm.org/howieY/libarchivejs">
+    <img src="https://david-dm.org/howieY/libarchivejs/status.svg"
          alt="dependency status">
   </a>
-  <a href="https://github.com/nika-begiashvili/libarchivejs/blob/master/LICENSE">
+  <a href="https://github.com/howieY/libarchivejs/blob/master/LICENSE">
     <img src="https://img.shields.io/npm/l/libarchive.js.svg"
          alt="license">
   </a>
